@@ -1,0 +1,21 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "Advent of Code problems by Chris Rollock",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "main": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advent",
+    "learning",
+    "challenge"
+  ],
+  "author": "Chris Rollock",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
